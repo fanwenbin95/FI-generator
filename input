@@ -1,0 +1,8 @@
+# Number of atoms
+6
+# Labels of atoms
+A A B B B B 
+# degree and number of exit point
+3 1
+# exit index of FI (number of exit index must equal the value last line)
+1
